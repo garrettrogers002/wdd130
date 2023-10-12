@@ -1,0 +1,28 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+#big_text {
+    font-size: large;
+    color: white;
+}
+.quote {
+    color: white;
+}
+.speaker {
+    color: white;
+}
+img {
+    width: 15%;
+}
+#big_text:hover {
+    color: black;
+}
+.list {
+    list-style-position: inside;
+}
+#quote {
+    color: white;
+    width: 300px;
+    text-align: center;
+}
