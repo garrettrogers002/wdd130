@@ -33,6 +33,7 @@ header {
     background-color: rgba(20,30,13, .7);
     display: grid;
     grid-template-columns: 150px auto;
+    opacity: 0.5;
 }
 .book, .join {
     background-color: gray;
@@ -87,6 +88,7 @@ h2 {
     padding-bottom: 15px;
 }
 footer {
+    width: 100%;
     color: rosybrown;
     padding: 25px 50px;
     margin-top: 200px;

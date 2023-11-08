@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Tilt+Neon&display=swap');
+
+footer {
+    background-color: beige;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+body {
+    background-color: #fcfbfb;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: rgba(20,30,13, .7);
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+nav a {
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 25px;
+    float: left;
+}
+nav a:hover{
+    background-color: crimson;
+}
+.logo {
+    width: 80%;
+}
+nav {
+    text-align: center;
+    overflow: hidden;
+}
+#hero_image {
+    width: 100%;
+
+}
+main {
+    background-color: #999193;
+}
